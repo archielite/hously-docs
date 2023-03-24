@@ -40,7 +40,18 @@ Please go to [Laravel documentation](https://laravel.com/docs/9.x) page for more
 It’s based on **Laravel framework**, the root folder for it is `/public`. You shouldn’t install it on a sub-folder, use sub-domain is better than sub-folder. (we won’t support to install our product on sub-folder).
 :::
 
-## Installation
+## Video tutorial install via GUI
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/QuOs-Qt_ZlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Install via GUI
+
+- Create database and extract source codes into your web root directory.
+- Go to `[your-domain.com]` to start installation.
+- Step by step to setup your database conntection, site information and administrator.
+- Login and setup your website on **Welcome Board**.
+
+## Install on hosting (manual)
 
 :::tip
 If you're a Laravel developer, and you want to customize our source code in `platform/core` and `platform/packages`,
