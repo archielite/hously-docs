@@ -24,7 +24,7 @@ export default [
       { text: 'Theme options', link: '/hously/theme-options' },
       { text: 'Menus', link: '/hously/menus' },
       { text: 'Widgets', link: '/hously/widgets' },
-      { text: 'Custom CSS/JS', link: '/hously/custom-css-js' },
+      { text: 'Custom CSS/JS', link: '/hously/usage-custom-css-js.md' },
       { text: 'Translation', link: '/hously/translation' },
       { text: 'Real Estate', link: '/hously/real-estate' },
       { text: 'Email', link: '/hously/usage-email' },
