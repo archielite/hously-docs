@@ -1,6 +1,5 @@
 .idea
 .DS_Store
-license.md
 ssl.md
 theme-rename.md
 upgrade.md
@@ -14,3 +13,5 @@ plugin-backup.md
 plugin-language.md
 usage-social-login.md
 usage-custom-css-js.md
+usage-translation.md
+usage-multi-language.md
