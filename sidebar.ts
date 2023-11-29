@@ -33,7 +33,6 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/agon/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/agon/usage-media-wasabi' },
       { text: 'Analytics', link: '/hously/usage-analytics' },
-      { text: 'Backup', link: '/hously/plugin-backup' },
     ],
   },
 ] satisfies DefaultTheme.SidebarItem[]
