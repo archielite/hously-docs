@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Hously** - is a real-estate system using Laravel 9.x. It's a product built on **Botble CMS**.
+**Hously** - is a real-estate system using Laravel 10.x. It's a product built on **Botble CMS**.
 
 Crafted by [Archi Elite](https://archielite.com)
 
